@@ -28,10 +28,6 @@ if (etaPassegeroNumero <= 17) {
     console.log('prezzo finale:', (prezzoBiglietto * 0.6));
     
 } else {
-    console.log('non puoi viaggiare, prima impara a compilare un form');
+    console.log(prezzoBiglietto);
     
 }
-
-// let prova = (prezzoBiglietto * 0.8);
-
-// console.log(prova);
